@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE module SYSTEM "module.dtd" >
+<module>
+  <name>script-mover</name>
+  <displayName>${project.name}</displayName>
+  <description>${project.description}</description>
+  <class>uk.co.malleusconsulting.ScriptMoverModule</class>
+  <versionHandler>uk.co.malleusconsulting.setup.ScriptMoverModuleVersionHandler</versionHandler>
+  <version>${project.version}</version>
+
+  <dependencies>
+    <dependency>
+      <name>core</name>
+      <version>5.3.7/*</version>
+    </dependency>
+    <dependency>
+      <name>standard-templating-kit</name>
+      <version>${stkVersion}/*</version>
+    </dependency>
+  </dependencies>
+</module>
