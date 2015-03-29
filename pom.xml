@@ -11,7 +11,8 @@
 
   <properties>
     <magnoliaVersion>5.3.7</magnoliaVersion>
-    <javaVersion>1.6</javaVersion>
+    <stkVersion>5.3.7</stkVersion>
+    <javaVersion>1.8</javaVersion>
   </properties>
 
   <dependencies>

@@ -1,4 +1,4 @@
-package uk.co.malleusconsulting;
+package uk.co.malleusconsulting.scriptmover;
 
 /**
  * This class is optional and represents the configuration for the script-mover module.

@@ -4,8 +4,8 @@
   <name>script-mover</name>
   <displayName>${project.name}</displayName>
   <description>${project.description}</description>
-  <class>uk.co.malleusconsulting.ScriptMoverModule</class>
-  <versionHandler>uk.co.malleusconsulting.setup.ScriptMoverModuleVersionHandler</versionHandler>
+  <class>uk.co.malleusconsulting.scriptmover.ScriptMoverModule</class>
+  <versionHandler>uk.co.malleusconsulting.scriptmover.setup.ScriptMoverModuleVersionHandler</versionHandler>
   <version>${project.version}</version>
 
   <dependencies>

@@ -1,4 +1,4 @@
-package uk.co.malleusconsulting.setup;
+package uk.co.malleusconsulting.scriptmover.setup;
 
 import info.magnolia.module.DefaultModuleVersionHandler;
 
